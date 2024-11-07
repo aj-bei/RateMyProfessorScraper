@@ -130,5 +130,3 @@ class RMPSchool:
         print(f"Professor DataFrame successfully saved to {school_name}Profs.csv")
         return True
 
-uncc = RMPSchool(1253)
-uncc.dump_to_csv()
